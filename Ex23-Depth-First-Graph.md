@@ -5,7 +5,7 @@ To compose the code for the function createNode to traverse the graph below in t
 
 ![image](https://github.com/user-attachments/assets/63552824-d0a3-49c6-a473-6db27d1f03e4)
 
-## Algorithm
+## Algorithm 
 
 
 1. **Allocate Memory**: Use `malloc` to allocate memory for a new node of type `struct node`.<br/>

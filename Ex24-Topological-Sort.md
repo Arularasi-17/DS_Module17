@@ -1,4 +1,4 @@
-# Ex23 Depth First Graph
+# Ex24 TOPOLOGICAL SORT
 ## DATE:16.04.2025
 ## AIM:
 To compose the code for the function createNode to traverse the graph below in the depth first fashion.
